@@ -18,10 +18,6 @@
 		<string>app-proxy-provider</string>
 		<string>content-filter-provider</string>
 	</array>
-	<key>com.apple.security.application-groups</key>
-	<array>
-		<string>group.io.wasin.potatso</string>
-	</array>
 	<key>keychain-access-groups</key>
 	<array>
 		<string>$(AppIdentifierPrefix)io.wasin.potatso</string>
